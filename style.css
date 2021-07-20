@@ -263,7 +263,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/jj.gif") no-repeat center;
+    background: url("images/gg.gif") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
